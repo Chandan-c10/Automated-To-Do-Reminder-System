@@ -5,7 +5,7 @@ This application allows users to add tasks with specific date & time and receive
 
 ---
 
-## 🚀 Features
+## 🚀 Features--
 
 * ✅ Add tasks with date & time
 * 📋 View all scheduled tasks
